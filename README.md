@@ -1,6 +1,6 @@
 ## About 👋
 
-Umvirt is private virtualization lab and GNU/Linux maitainer. Currently Umvirt is runs as hobby, just for fun.
+Umvirt is private virtualization lab and GNU/Linux maintainer. Currently Umvirt is runs as hobby, just for fun.
 
 More information at https://umvirt.com
 
