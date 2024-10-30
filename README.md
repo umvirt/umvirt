@@ -6,7 +6,9 @@ More information at https://umvirt.com
 
 ### Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umvirt&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umvirt&show_icons=true&theme=transparent&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umvirt&hide_progress=true&layout=pie)
 
 <!--
 **umvirt/umvirt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
